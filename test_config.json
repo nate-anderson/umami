@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "port": 8000,
+  "table": "test_table",
+  "partitionKey": "pk",
+  "sortKey": "sk"
+}
